@@ -7,6 +7,7 @@
 %define device_pretty Galaxy Tab 2 3G
 
 %define installable_zip 1
+%define enable_kernel_update 1
 
 %define straggler_files \
 /selinux_version\
